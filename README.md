@@ -1,6 +1,6 @@
 # CardGame
 ## Description
-<p>Showcase of classic OOP principles separating a project statement up in different objects to allow for easy extensibility and maintainability.</p>
+<p>This application design makes use of classic OOP principles such as inheritance, encapsulation, abstraction and polymorphism. It is designed with a focus on extensibility and ease of maintenance.</p>
 
 ## Instructions
 <p>To run the application please follow this exact process:</p>
