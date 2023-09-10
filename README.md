@@ -4,7 +4,7 @@
 
 ## Instructions
 <p>To run the application please follow this exact process:</p>
-1) Traverse to the directory where the project is located and open your command prompt
+1) Traverse to the directory where the project is located and open your command prompt.
 <br>
 2) Type in the prompt, "gradlew run" (windows) or "./gradlew run" (macOS and Linux) to compile, package and run both the unit tests and the application.
 <br>
