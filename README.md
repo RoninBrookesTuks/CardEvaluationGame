@@ -13,7 +13,7 @@
 ## Documentation
 <p>It is highly advised to read the documentation as it explains every major design desicion implemented.</p>
 
-## About the author
+## About the Author
 <div>
 <img src = "https://media.licdn.com/dms/image/D4D03AQGEuUYQu0a-TA/profile-displayphoto-shrink_800_800/0/1673177332053?e=1700092800&v=beta&t=e0LVjKcGPu9E4D-DGQEGnNSfZY8MtyAljSnvXaSuiec" width = "150">
 <img src = "https://www.up.ac.za/themes/up2.0/images/vertical-logo-bg.png" width = "150">
